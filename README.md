@@ -2,6 +2,10 @@
 ---
 
 
+| Secret 名称      | 内容                    |
+| -------------- | --------------------- |
+| `TG_BOT_TOKEN` | 你的 Telegram Bot Token |
+| `TG_CHAT_ID`   | 要接收消息的 chat_id        |
 
 
 
